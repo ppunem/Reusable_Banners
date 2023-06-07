@@ -37,4 +37,12 @@ button {
   border-color: #326a9d;
   color: #326a9d;
   padding: 10px;
+  align-self: center;
+}
+li {
+  list-style-type: none;
+  margin-bottom: 15px;
+  flex-direction: column;
+  padding: 15px;
+  width: 60vw;
 }
